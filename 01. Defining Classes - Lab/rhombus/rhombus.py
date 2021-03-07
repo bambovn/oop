@@ -15,4 +15,4 @@ def draw_rhombus(n):
         draw_line(i + 1, '*', n - i - 1)
 
 
-draw_rhombus(4)
+draw_rhombus(int(input()))
